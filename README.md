@@ -1,6 +1,6 @@
 # Perfect Circle Challenge
 
-Welcome to the Neal.fun perfect circle challenge! This module provides a simple and efficient way to create a perfect circle with a 99.9% guarantee.
+This code provides a simple and efficient way to create a perfect circle with a 99.9% guarantee.
 
 ## Usage
 
